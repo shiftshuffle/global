@@ -1,4 +1,4 @@
-import { FaSwimmingPool, FaDumbbell, FaUtensils, FaCoffee, FaLeaf, FaTennisBall, FaGlobe, FaBuilding, FaSun } from 'react-icons/fa';
+import { FaSwimmingPool, FaDumbbell, FaUtensils, FaCoffee, FaLeaf, FaGlobe, FaBuilding, FaSun } from 'react-icons/fa';
 import { FaTree, FaBath, FaRegBuilding } from 'react-icons/fa';
 import { FaBalcony } from 'react-icons/fa';
 
@@ -92,9 +92,7 @@ const PositiveThings3 = () => {
                     <div className="flex items-center justify-center p-4 rounded-full bg-white shadow-md">
                         <FaLeaf size={36} color="#6B7280" />
                     </div>
-                    {/* <div className="flex items-center justify-center p-4 rounded-full bg-white shadow-md">
-                        <FaTennisBall size={36} color="#6B7280" />
-                    </div> */}
+
                     <div className="flex items-center justify-center p-4 rounded-full bg-white shadow-md">
                         <FaGlobe size={36} color="#6B7280" />
                     </div>
