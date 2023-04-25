@@ -39,6 +39,7 @@ const DepImage = () => {
                             showNavs={true}
                             style={{ margin: '0 auto' }}
                             slideDuration={0.5}
+                            showBullets={false}
                         />
                     </div>
                 </div>
