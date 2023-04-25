@@ -33,10 +33,10 @@ const Navbar = () => {
                                                 {/* <span className="font-semibold text-xl tracking-tight">Real State Business</span> */}
 
 
-                                                <span ref="#" className="px-3 py-2 rounded-md text-gray-100 hover:text-blue-500">
+                                                <span className="px-3 py-2 rounded-md text-gray-100 hover:text-blue-500">
                                                     <FaFacebook className="h-6 w-6" />
                                                 </span>
-                                                <span ref="#" className="px-3 py-2 rounded-md text-gray-100 hover:text-blue-500">
+                                                <span className="px-3 py-2 rounded-md text-gray-100 hover:text-blue-500">
                                                     <FaInstagram className="h-6 w-6" />
                                                 </span>
                                             </div>

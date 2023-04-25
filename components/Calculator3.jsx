@@ -19,12 +19,12 @@ const Calculator3 = () => {
     const paymentData = [];
     let balance = principal;
 
-    // for (let i = 0; i < numberOfPayments; i++) {
-    //     const interest = balance * monthlyInterestRate;
-    //     const principalPaid = mortgage - interest;
-    //     balance = balance - principalPaid;
-    //     paymentData.push({ payment: mortgage, interest, principalPaid, balance });
-    // }
+    for (let i = 0; i < numberOfPayments; i++) {
+        const interest = balance * monthlyInterestRate;
+        const principalPaid = mortgage - interest;
+        balance = balance - principalPaid;
+        paymentData.push({ payment: mortgage, interest, principalPaid, balance });
+    }
 
     return (
         <div className="flex flex-col items-center justify-center text-gray-100">
