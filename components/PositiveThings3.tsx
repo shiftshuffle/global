@@ -1,6 +1,6 @@
-import { FaSwimmingPool, FaDumbbell, FaUtensils, FaCoffee, FaLeaf, FaGlobe, FaBuilding, FaSun } from 'react-icons/fa';
-import { FaTree, FaBath, FaRegBuilding } from 'react-icons/fa';
-import { FaBalcony } from 'react-icons/fa';
+import { FaSwimmingPool, FaDumbbell, FaUtensils, FaCoffee, FaLeaf, FaGlobe, FaBuilding, FaSun, FaTree } from 'react-icons/fa';
+
+
 
 
 const amenities = [
