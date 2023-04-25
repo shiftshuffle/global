@@ -1,8 +1,6 @@
 // "use client"
 // import { useState, useRef } from 'react';
 // import Link from 'next/link';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faSwimmingPool } from '@fortawesome/free-solid-svg-icons'
 
 const Footer = () => {
     return (
@@ -27,10 +25,7 @@ const Footer = () => {
                             <br></br>
                             <br></br>
                             <div className="font-assist">
-                                <a href="https://www.freepik.com/free-photo/laboratory-worker-examining-green-substance-petri-dish-while-conducting-coronavirus-research_7677834.htm#query=microorganism&amp;position=3&amp;from_view=keyword">
-                                    Image by wirestock
-                                </a>{" "}
-                                on Freepik
+
                                 <br></br>
                                 <a href="https://shift27.netlify.app/home">
                                     © 2023 Website by Francisco Villalobos
